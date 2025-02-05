@@ -3,7 +3,7 @@
 
 # Config files
 .env
-
+apiTest.http
 # Logs
 logs
 *.log
